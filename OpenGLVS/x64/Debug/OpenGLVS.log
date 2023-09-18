@@ -1,0 +1,4 @@
+﻿  heightMap.cpp
+C:\OpenGLRoot\OpenGLVS\OpenGLVS\heightMap.h(20,18): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\OpenGLRoot\OpenGLVS\OpenGLVS\heightMap.h(50,49): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\OpenGLRoot\OpenGLVS\OpenGLVS\heightMap.h(52,49): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
